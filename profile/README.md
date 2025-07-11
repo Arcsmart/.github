@@ -3,7 +3,7 @@
 
  <h3>Aboute Me</h3> 
 
-I am a well-organized and resourceful **Full-Stack Web Developer** with over a year of experience in designing, developing, and deploying dynamic web applications. Proficient in the MERN stack (MySQL, Express, React, Node.js) with a strong command of JavaScript. I have a proven ability to build comprehensive solutions from the ground up, featuring complex functionalities such as custom admin panels, third-party API integrations, and secure payment systems. I'm actively seeking to leverage my skills to build innovative and impactful web solutions.
+I am a well-organized and resourceful **Full-Stack Web Developer** with over a year of experience in designing, developing, and deploying dynamic web applications. Proficient in the MERN stack  with a strong command of JavaScript. I have a proven ability to build comprehensive solutions from the ground up, featuring complex functionalities such as custom admin panels, third-party API integrations, and secure payment systems. I'm actively seeking to leverage my skills to build innovative and impactful web solutions.
 
 
  # <h3>🛠️ Technical Skills</h3>
@@ -24,7 +24,7 @@ I am a well-organized and resourceful **Full-Stack Web Developer** with over a y
 Connect with me on my socials and check out my work!
 
 
-<p align="">
+
  <a href="https://www.linkedin.com/in/tesfaye-alemayehu1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -40,7 +40,7 @@ Connect with me on my socials and check out my work!
   <a href="mailto:tesfayealemayehu796@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
+
 
 
                 

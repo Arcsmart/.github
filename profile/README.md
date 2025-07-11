@@ -11,7 +11,7 @@ Technical Skills
 
 • Backend: Node.js, Express.js
 
-• Databases: MySQL
+• Databases: MySQL,MongoDB
 
 • Tools & Platforms: Git, GitHub, VS Code, Postman
 

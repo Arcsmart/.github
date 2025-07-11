@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/2043f4d3-51a6-4cdc-9412-e8d56db067b0
+
 I am well-organized and resourceful Full-Stack Web Developer with over 1 year experience in
 designing, developing, and deploying dynamic web applications. Proficient in the MERN stack
 (MySQL, Express, React, Node.js) with a strong command of JavaScript. Proven ability to build

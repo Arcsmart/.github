@@ -1,13 +1,9 @@
 
-
-
 # 👋 Hi, I'm Tesfaye!
 <hr>
  <h3>Aboute Me</h3> 
 
 I am a well-organized and resourceful **Full-Stack Web Developer** with over a year of experience in designing, developing, and deploying dynamic web applications. Proficient in the MERN stack (MySQL, Express, React, Node.js) with a strong command of JavaScript. I have a proven ability to build comprehensive solutions from the ground up, featuring complex functionalities such as custom admin panels, third-party API integrations, and secure payment systems. I'm actively seeking to leverage my skills to build innovative and impactful web solutions.
-
-
 
 <hr>
  <h3>🛠️ Technical Skills</h3>

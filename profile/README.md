@@ -1,13 +1,27 @@
+<<<<<<< HEAD
                 
                 <h2>👋 Hi, I'm Tesfaye!</h2> 
  <hr>
             <h3>Aboute Me</h3> 
 <p>
 I am well-organized and resourceful Full-Stack Web Developer with over 1 year experience in designing, developing, and deploying dynamic web applications. Proficient in the MERN stack (MySQL, Express, React, Node.js) with a strong command of JavaScript. Proven ability to build comprehensive solutions from the ground up, featuring complex functionalities such as custom admin panels, third-party API integrations, and secure payment systems. Seeking to leverage my skills to build innovative and impactful web solutions.</p>               
+=======
+
+             👋 Hi, I'm Tesfaye!
+
+
+I am well-organized and resourceful Full-Stack Web Developer with over 1 year experience in
+designing, developing, and deploying dynamic web applications. Proficient in the MERN stack
+(MySQL, Express, React, Node.js) with a strong command of JavaScript. Proven ability to build
+comprehensive solutions from the ground up, featuring complex functionalities such as custom
+admin panels, third-party API integrations, and secure payment systems. Seeking to leverage my
+skills to build innovative and impactful web solutions.
+>>>>>>> 8a2c2b1b2bfb9956090c1a618de83a4ef50112fe
 
 <hr>
  <h3>🛠️ Technical Skills</h3>
 
+<<<<<<< HEAD
 <strong>• Frontend:</strong> React, JavaScript (ES6+), HTML5, CSS3, Bootstrap,Tailwindcss,Jquery
 <strong>• Backend:</strong> Node.js, Express.js
 <strong>• Databases:</strong> MySQL,MongoDB 
@@ -24,3 +38,14 @@ I am well-organized and resourceful Full-Stack Web Developer with over 1 year ex
 
 
                 
+=======
+• Frontend: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap,Tailwindcss,Jquery
+
+• Backend: Node.js, Express.js
+
+• Databases: MySQL,MongoDB
+
+• Tools & Platforms: Git, GitHub, VS Code, Postman
+
+• Methodologies: Agile/Scrum (Familiarity)
+>>>>>>> 8a2c2b1b2bfb9956090c1a618de83a4ef50112fe

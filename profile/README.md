@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
                 
-                <h2>👋 Hi, I'm Tesfaye!</h2> 
+    <h2>👋 Hi, I'm Tesfaye!</h2> 
  <hr>
             <h3>Aboute Me</h3> 
 <p>

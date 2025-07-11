@@ -7,8 +7,12 @@ skills to build innovative and impactful web solutions.
 
 Technical Skills
 
-• Frontend: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap,Jquery
+• Frontend: React, JavaScript (ES6+), HTML5, CSS3, Bootstrap,Tailwindcss,Jquery
+
 • Backend: Node.js, Express.js
+
 • Databases: MySQL
+
 • Tools & Platforms: Git, GitHub, VS Code, Postman
+
 • Methodologies: Agile/Scrum (Familiarity)
